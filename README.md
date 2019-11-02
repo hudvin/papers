@@ -13,6 +13,17 @@
 * Colour similarity search in images (в папке)
 * Image recognition and image similarity (в папке)
 * A Comparative Analysis of SIFT, SURF, KAZE, AKAZE, ORB, and BRISK https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8346440
+* Deep Visual-Semantic Alignments for Generating Image Descriptions https://cs.stanford.edu/people/karpathy/cvpr2015.pdf
+* On the Art of Establishing Correspondence (в папке) 
+ 
+### Reverse geotagging
+* World-Wide Scale Geotagged Image Dataset for Automatic Image Annotation and Reverse Geotagging https://www.researchgate.net/publication/259802674_World-Wide_Scale_Geotagged_Image_Dataset_for_Automatic_Image_Annotation_and_Reverse_Geotagging
+* Search-based automatic image annotation using geotagged community photos https://www.theses.fr/2014ISAL0084.pdf 
+
+### Image Search
+* Image Search: Then and Now https://www.slideshare.net/iksinc/image-search-then-and-now-37153524
+
+
 
 ### Dense Captioning
 * Dense-Captioning Events in Videos. https://cs.stanford.edu/people/ranjaykrishna/densevid/ . Some ideas could be useful for image dense-captioning.
