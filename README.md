@@ -9,6 +9,11 @@
 * Что не так с обучением с подкрепленим (статья в папке)
 
 
+### Image Similarity
+* Colour similarity search in images (в папке)
+* Image recognition and image similarity (в папке)
+* A Comparative Analysis of SIFT, SURF, KAZE, AKAZE, ORB, and BRISK https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8346440
+
 ### Dense Captioning
 * Dense-Captioning Events in Videos. https://cs.stanford.edu/people/ranjaykrishna/densevid/ . Some ideas could be useful for image dense-captioning.
 
