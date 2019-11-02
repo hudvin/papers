@@ -8,6 +8,11 @@
 * EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks https://arxiv.org/abs/1905.11946
 * Что не так с обучением с подкрепленим (статья в папке)
 
+### Face Processing
+* One Millisecond Face Alignment with an Ensemble of Regression Trees http://www.nada.kth.se/~sullivan/Papers/Kazemi_cvpr14.pdf
+
+### General Image Processing
+* Superpixel Hierarchy https://arxiv.org/abs/1605.06325
 
 ### Image Similarity
 * Colour similarity search in images (в папке)
