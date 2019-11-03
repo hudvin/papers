@@ -28,7 +28,9 @@
 ### Image Search
 * Image Search: Then and Now https://www.slideshare.net/iksinc/image-search-then-and-now-37153524
 
-
+### Image Captioning
+* Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge https://arxiv.org/abs/1609.06647
+* A Survey on Automatic Image Caption Generation https://www.researchgate.net/publication/325384133_A_Survey_on_Automatic_Image_Caption_Generation
 
 ### Dense Captioning
 * Dense-Captioning Events in Videos. https://cs.stanford.edu/people/ranjaykrishna/densevid/ . Some ideas could be useful for image dense-captioning.
