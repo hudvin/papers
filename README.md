@@ -31,9 +31,13 @@
 ### Image Captioning
 * Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge https://arxiv.org/abs/1609.06647
 * A Survey on Automatic Image Caption Generation https://www.researchgate.net/publication/325384133_A_Survey_on_Automatic_Image_Caption_Generation
+* Image Captioning with Object Detection and Localization https://arxiv.org/abs/1706.02430
+
 
 ### Dense Captioning
 * Dense-Captioning Events in Videos. https://cs.stanford.edu/people/ranjaykrishna/densevid/ . Some ideas could be useful for image dense-captioning.
+* DenseCap: Fully Convolutional Localization Networks for Dense Captioning http://www.micc.unifi.it/bagdanov/pdfs/densecap.pdf
+
 
 ### Some weird DIY 
 * Cold Nuclean fusion. Increases excess heat from palladium deposited on nickel https://www.lenr-canr.org/acrobat/MizunoTexcessheata.pdf 
