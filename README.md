@@ -1,5 +1,9 @@
 ## My list of interesting papers
 
+### RetinaNet
+* https://medium.com/@14prakash/the-intuition-behind-retinanet-eb636755607d
+* https://towardsdatascience.com/review-retinanet-focal-loss-object-detection-38fba6afabe4
+
 ### AI and Math
 * How real are real numbers? https://arxiv.org/abs/math/0411418
 * DEEP LEARNING FOR SYMBOLIC MATHEMATICS https://openreview.net/forum?id=S1eZYeHFDS
@@ -32,6 +36,7 @@
 * Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge https://arxiv.org/abs/1609.06647
 * A Survey on Automatic Image Caption Generation https://www.researchgate.net/publication/325384133_A_Survey_on_Automatic_Image_Caption_Generation
 * Image Captioning with Object Detection and Localization https://arxiv.org/abs/1706.02430
+* https://medium.com/swlh/image-captioning-in-python-with-keras-870f976e0f18
 
 
 ### Dense Captioning
