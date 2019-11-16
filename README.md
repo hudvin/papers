@@ -31,6 +31,7 @@
 
 ### Image Search
 * Image Search: Then and Now https://www.slideshare.net/iksinc/image-search-then-and-now-37153524
+* https://blog.acolyer.org/2019/10/11/learning-a-unified-embedding-for-visual-search-at-pinterest/
 
 ### Image Captioning
 * Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge https://arxiv.org/abs/1609.06647
