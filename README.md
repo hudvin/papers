@@ -38,6 +38,7 @@
 * A Survey on Automatic Image Caption Generation https://www.researchgate.net/publication/325384133_A_Survey_on_Automatic_Image_Caption_Generation
 * Image Captioning with Object Detection and Localization https://arxiv.org/abs/1706.02430
 * https://medium.com/swlh/image-captioning-in-python-with-keras-870f976e0f18
+* Boosting Image Captioning with Attributes https://arxiv.org/abs/1611.01646
 
 
 ### Dense Captioning
@@ -56,3 +57,11 @@
 ### Space
 * The Fermi Paradox and the Aurora Effect: Exo-civilization Settlement, Expansion and Steady States https://arxiv.org/abs/1902.04450
 * What if Planet 9 is a Primordial Black Hole?  https://arxiv.org/abs/1909.11090
+
+### ROS
+* Comparison of ROS-based Visual SLAM methods in homogeneous indoor environment https://www.researchgate.net/publication/320623436_Comparison_of_ROS-based_Visual_SLAM_methods_in_homogeneous_indoor_environment
+* ROS Navigation Tuning Guide http://kaiyuzheng.me/documents/navguide.pdf
+* SLAM-Based Navigation of An Autonomous Driving Car http://wwwknoll.in.tum.de/pub/Main/Hub/Bachelorarbeit.pdf
+
+### Crypto
+* OpenPGP Message Format https://tools.ietf.org/html/rfc4880
