@@ -67,5 +67,8 @@
 * ROS Navigation Tuning Guide http://kaiyuzheng.me/documents/navguide.pdf
 * SLAM-Based Navigation of An Autonomous Driving Car http://wwwknoll.in.tum.de/pub/Main/Hub/Bachelorarbeit.pdf
 
+### LIDAR
+* Construction of 3D Point Clouds Using LiDAR Technology https://support.dce.felk.cvut.cz/mediawiki/images/d/d3/Bp_2016_trafina_tomas.pdf
+
 ### Crypto
 * OpenPGP Message Format https://tools.ietf.org/html/rfc4880
