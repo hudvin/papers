@@ -1,5 +1,8 @@
 ## My list of interesting papers
 
+### Optimization
+* An overview of gradient descent optimization algorithms https://arxiv.org/abs/1609.04747
+
 ### RetinaNet
 * https://medium.com/@14prakash/the-intuition-behind-retinanet-eb636755607d
 * https://towardsdatascience.com/review-retinanet-focal-loss-object-detection-38fba6afabe4
