@@ -17,6 +17,15 @@
 
 ### Face Processing
 * One Millisecond Face Alignment with an Ensemble of Regression Trees http://www.nada.kth.se/~sullivan/Papers/Kazemi_cvpr14.pdf
+* Age and gender estimation https://github.com/yu4u/age-gender-estimation
+
+### Face Search
+* Face Search at Scale: 80 Million Gallery https://arxiv.org/abs/1507.07242
+* Level Playing Field for Million Scale Face Recognition https://arxiv.org/abs/1705.00393
+
+### Face datasets
+* MF2 (7 faces per person, 672K identities) https://megaface.cs.washington.edu/dataset/download_training.html
+
 
 ### General Image Processing
 * Superpixel Hierarchy https://arxiv.org/abs/1605.06325
