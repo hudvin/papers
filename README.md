@@ -30,6 +30,9 @@
 ### General Image Processing
 * Superpixel Hierarchy https://arxiv.org/abs/1605.06325
 
+### Image Colorization
+* https://github.com/jantic/DeOldify
+
 ### Image Similarity
 * Colour similarity search in images (в папке)
 * Image recognition and image similarity (в папке)
