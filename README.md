@@ -56,6 +56,7 @@
 * Boosting Image Captioning with Attributes https://arxiv.org/abs/1611.01646
 * Show, Attend and Tell: Neural Image Caption Generation with Visual Attention https://arxiv.org/abs/1502.03044
 * Think and Tell: Preview Network for Image Captioning http://bmvc2018.org/contents/papers/0262.pdf
+* How to Generate Text from Images with Python https://www.searchenginejournal.com/generate-text-from-images-with-python/324001/
 
 ### Reasoning
 * SATNet: Bridging deep learning and logical reasoning using a differentiable satisfiability solver https://arxiv.org/abs/1905.12149
