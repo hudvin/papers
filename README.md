@@ -15,6 +15,15 @@
 * EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks https://arxiv.org/abs/1905.11946
 * Что не так с обучением с подкрепленим (статья в папке)
 
+
+### Face Recognition
+* FaceNet: A Unified Embedding for Face Recognition and Clustering  https://arxiv.org/abs/1503.03832
+
+       they use about 100-200M faces and 8M identities. Large batches and nice hard negatives are important.
+       What about triplet loss alternatives?
+
+
+
 ### Face Processing
 * One Millisecond Face Alignment with an Ensemble of Regression Trees http://www.nada.kth.se/~sullivan/Papers/Kazemi_cvpr14.pdf
 * Age and gender estimation https://github.com/yu4u/age-gender-estimation
