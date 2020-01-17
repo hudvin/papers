@@ -97,3 +97,8 @@
 
 ### Crypto
 * OpenPGP Message Format https://tools.ietf.org/html/rfc4880
+
+### EXIF 
+* https://exiftool.org/TagNames/EXIF.html 
+
+       UniquerCamereaModel and LocalizedCameraModel
