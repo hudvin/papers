@@ -48,6 +48,20 @@
 * A Comparative Analysis of SIFT, SURF, KAZE, AKAZE, ORB, and BRISK https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8346440
 * Deep Visual-Semantic Alignments for Generating Image Descriptions https://cs.stanford.edu/people/karpathy/cvpr2015.pdf
 * On the Art of Establishing Correspondence (в папке) 
+* List of papers and repos https://github.com/shamangary/awesome-local-global-descriptor
+* Large-Scale Image Retrieval with Attentive Deep Local Features https://arxiv.org/abs/1612.06321
+
+       Google Landmarks dataset - 1M images and 13K landmarks
+       global vs local descriptors
+       photos can be captured from large distance
+       product quntization during retrieval
+       geometric verification using RANSAC
+       8GB RAM for 1B descriptors
+       2 sec per request on single CPU
+       top 60 candidates
+       ResNet50 as baseline model
+       interesting description of image retrieval approach
+       
  
 ### Reverse geotagging
 * World-Wide Scale Geotagged Image Dataset for Automatic Image Annotation and Reverse Geotagging https://www.researchgate.net/publication/259802674_World-Wide_Scale_Geotagged_Image_Dataset_for_Automatic_Image_Annotation_and_Reverse_Geotagging
