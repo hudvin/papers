@@ -1,7 +1,17 @@
 ## My list of interesting papers
 
+### Dev Notes
+* https://towardsdatascience.com/a-bunch-of-tips-and-tricks-for-training-deep-neural-networks-3ca24c31ddc8
+* https://towardsdatascience.com/https-medium-com-chayankathuria-regression-why-mean-square-error-a8cad2a1c96f
+* https://www.freecodecamp.org/news/machine-learning-mean-squared-error-regression-line-c7dde9a26b93/
+* https://habr.com/ru/post/277275/
+* https://habr.com/ru/post/477192/
+
 ### Optimization
 * An overview of gradient descent optimization algorithms https://arxiv.org/abs/1609.04747
+
+### ResNet
+* https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035
 
 ### RetinaNet
 * https://medium.com/@14prakash/the-intuition-behind-retinanet-eb636755607d
@@ -43,6 +53,7 @@
 * https://github.com/jantic/DeOldify
 
 ### Image Similarity
+* https://mccormickml.com/2017/10/13/product-quantizer-tutorial-part-1/
 * Colour similarity search in images (в папке)
 * Image recognition and image similarity (в папке)
 * A Comparative Analysis of SIFT, SURF, KAZE, AKAZE, ORB, and BRISK https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8346440
