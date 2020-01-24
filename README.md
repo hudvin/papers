@@ -13,6 +13,9 @@
 ### ResNet
 * https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035
 
+### Object Detection
+* Overview https://towardsdatascience.com/5-significant-object-detection-challenges-and-solutions-924cb09de9dd
+
 ### RetinaNet
 * https://medium.com/@14prakash/the-intuition-behind-retinanet-eb636755607d
 * https://towardsdatascience.com/review-retinanet-focal-loss-object-detection-38fba6afabe4
@@ -27,6 +30,10 @@
 
 
 ### Face Recognition
+* RetinaFace face detector https://github.com/deepinsight/insightface/tree/master/RetinaFace
+* InsightFace: 2D and 3D Face Analysis Project https://github.com/deepinsight/insightface
+* CenterLoss for face recognition https://www.slideshare.net/JisungDavidKim/center-loss-for-face-recognition
+* SphereFace: Deep Hypersphere Embedding for Face Recognition http://zpascal.net/cvpr2017/Liu_SphereFace_Deep_Hypersphere_CVPR_2017_paper.pdf
 * FaceNet: A Unified Embedding for Face Recognition and Clustering  https://arxiv.org/abs/1503.03832
 
        they use about 100-200M faces and 8M identities. Large batches and nice hard negatives are important.
