@@ -7,6 +7,12 @@
 * https://habr.com/ru/post/277275/
 * https://habr.com/ru/post/477192/
 
+### Weakly-/Semi-Supervised Learning
+* Many links https://github.com/TinyGrass/CV_WSSL
+
+### Tools
+* VisiData is an interactive multitool for tabular data. It combines the clarity of a spreadsheet, the efficiency of the terminal, and the power of Python, into a lightweight utility which can handle millions of rows with ease. https://visidata.org/
+
 ### Optimization
 * An overview of gradient descent optimization algorithms https://arxiv.org/abs/1609.04747
 
