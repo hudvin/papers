@@ -10,6 +10,9 @@
 ### Weakly-/Semi-Supervised Learning
 * Many links https://github.com/TinyGrass/CV_WSSL
 
+### Optical Flow
+* https://habr.com/ru/company/ods/blog/446726/
+
 ### Tools
 * VisiData is an interactive multitool for tabular data. It combines the clarity of a spreadsheet, the efficiency of the terminal, and the power of Python, into a lightweight utility which can handle millions of rows with ease. https://visidata.org/
 
