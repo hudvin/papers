@@ -1,6 +1,9 @@
 ## My list of interesting papers
 
 ### Dev Notes
+* https://stackoverflow.com/questions/46291253/what-is-the-difference-between-a-sigmoid-followed-by-the-cross-entropy-and-sigmo
+* https://stats.stackexchange.com/questions/207794/what-loss-function-for-multi-class-multi-label-classification-tasks-in-neural-n
+* https://stackoverflow.com/questions/17187507/why-use-softmax-as-opposed-to-standard-normalization
 * https://towardsdatascience.com/a-bunch-of-tips-and-tricks-for-training-deep-neural-networks-3ca24c31ddc8
 * https://towardsdatascience.com/https-medium-com-chayankathuria-regression-why-mean-square-error-a8cad2a1c96f
 * https://www.freecodecamp.org/news/machine-learning-mean-squared-error-regression-line-c7dde9a26b93/
@@ -31,9 +34,11 @@
 
 ### Object Detection
 * Overview https://towardsdatascience.com/5-significant-object-detection-challenges-and-solutions-924cb09de9dd
+* Focal Loss for Dense Object Detection https://arxiv.org/pdf/1708.02002.pdf
 
 ### RetinaNet
 * https://medium.com/@14prakash/the-intuition-behind-retinanet-eb636755607d
+* https://towardsdatascience.com/neural-networks-intuitions-3-focal-loss-for-dense-object-detection-paper-explanation-61bc0205114e
 * https://towardsdatascience.com/review-retinanet-focal-loss-object-detection-38fba6afabe4
 
 ### AI and Math
