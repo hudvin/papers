@@ -7,6 +7,13 @@
 * https://habr.com/ru/post/277275/
 * https://habr.com/ru/post/477192/
 
+
+### Other
+* CONTRASTIVE-CENTER LOSS FOR DEEP NEURAL NETWORKS https://arxiv.org/pdf/1707.07391.pdf
+* A Discriminative Feature Learning Approach for Deep Face Recognition (2016) https://ydwen.github.io/papers/WenECCV16.pdf 
+
+       center loss, can be used for face recog
+
 ### Weakly-/Semi-Supervised Learning
 * Many links https://github.com/TinyGrass/CV_WSSL
 
