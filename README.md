@@ -26,6 +26,18 @@
 ### Tools
 * VisiData is an interactive multitool for tabular data. It combines the clarity of a spreadsheet, the efficiency of the terminal, and the power of Python, into a lightweight utility which can handle millions of rows with ease. https://visidata.org/
 
+### Batch Norm
+* https://www.learnopencv.com/batch-normalization-in-deep-networks/
+* https://medium.com/@SeoJaeDuk/deeper-understanding-of-batch-normalization-with-interactive-code-in-tensorflow-manual-back-1d50d6903d35
+* https://papers.nips.cc/paper/7996-understanding-batch-normalization.pdf
+* https://mlexplained.com/2018/01/10/an-intuitive-explanation-of-why-batch-normalization-really-works-normalization-in-deep-learning-part-1/
+* https://gluon.mxnet.io/chapter04_convolutional-neural-networks/cnn-batch-norm-scratch.html
+* https://towardsdatascience.com/understanding-batch-normalization-with-examples-in-numpy-and-tensorflow-with-interactive-code-7f59bb126642
+* https://mlexplained.com/2018/01/13/weight-normalization-and-layer-normalization-explained-normalization-in-deep-learning-part-2/
+* https://wiseodd.github.io/techblog/2016/07/04/batchnorm/
+* https://towardsdatascience.com/backpropagation-and-batch-normalization-in-feedforward-neural-networks-explained-901fd6e5393e
+
+
 ### Optimization
 * An overview of gradient descent optimization algorithms https://arxiv.org/abs/1609.04747
 
