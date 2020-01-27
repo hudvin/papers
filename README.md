@@ -47,11 +47,18 @@
 ### Object Detection
 * Overview https://towardsdatascience.com/5-significant-object-detection-challenges-and-solutions-924cb09de9dd
 * Focal Loss for Dense Object Detection https://arxiv.org/pdf/1708.02002.pdf
+#### R-CNN family
+* https://towardsdatascience.com/r-cnn-3a9beddfd55a
 
 ### RetinaNet
 * https://medium.com/@14prakash/the-intuition-behind-retinanet-eb636755607d
 * https://towardsdatascience.com/neural-networks-intuitions-3-focal-loss-for-dense-object-detection-paper-explanation-61bc0205114e
 * https://towardsdatascience.com/review-retinanet-focal-loss-object-detection-38fba6afabe4
+
+# FPN 
+* https://zpascal.net/cvpr2017/Lin_Feature_Pyramid_Networks_CVPR_2017_paper.pdf
+* https://medium.com/@jonathan_hui/understanding-feature-pyramid-networks-for-object-detection-fpn-45b227b9106c
+* https://towardsdatascience.com/review-fpn-feature-pyramid-network-object-detection-262fc7482610
 
 ### AI and Math
 * How real are real numbers? https://arxiv.org/abs/math/0411418
