@@ -1,5 +1,10 @@
 ## My list of interesting papers
 
+### Metrics
+* https://stackoverflow.com/questions/48461855/understanding-and-tracking-of-metrics-in-object-detection
+* https://developers.google.com/machine-learning/crash-course/classification/precision-and-recall
+* https://towardsdatascience.com/breaking-down-mean-average-precision-map-ae462f623a52
+
 ### Dev Notes
 * https://stackoverflow.com/questions/46291253/what-is-the-difference-between-a-sigmoid-followed-by-the-cross-entropy-and-sigmo
 * https://stats.stackexchange.com/questions/207794/what-loss-function-for-multi-class-multi-label-classification-tasks-in-neural-n
