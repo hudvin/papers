@@ -49,6 +49,9 @@
 * Focal Loss for Dense Object Detection https://arxiv.org/pdf/1708.02002.pdf
 #### R-CNN family
 * https://towardsdatascience.com/r-cnn-3a9beddfd55a
+* https://ru.coursera.org/lecture/deep-learning-in-computer-vision/faster-r-cnn-DM0hz
+* https://ru.coursera.org/lecture/deep-learning-in-computer-vision/from-r-cnn-to-fast-r-cnn-i4qSu
+* https://towardsdatascience.com/faster-r-cnn-for-object-detection-a-technical-summary-474c5b857b46
 
 ### RetinaNet
 * https://medium.com/@14prakash/the-intuition-behind-retinanet-eb636755607d
