@@ -22,6 +22,11 @@
 
        center loss, can be used for face recog
 
+### Autoencoders
+* https://www.jeremyjordan.me/autoencoders/
+* https://www.jeremyjordan.me/variational-autoencoders/
+* http://www.deeplearningbook.org/contents/autoencoders.html
+
 ### Weakly-/Semi-Supervised Learning
 * Many links https://github.com/TinyGrass/CV_WSSL
 
