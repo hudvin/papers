@@ -22,6 +22,12 @@
 
        center loss, can be used for face recog
 
+### Other architectures
+* https://habr.com/ru/post/347564/
+* https://medium.com/@fransiska26/the-differences-between-inception-resnet-and-mobilenet-e97736a709b0
+* https://habr.com/ru/post/352804/
+* https://medium.com/@yu4u/why-mobilenet-and-its-variants-e-g-shufflenet-are-fast-1c7048b9618d
+
 ### GAN
 * https://medium.com/@jonathan_hui/gan-some-cool-applications-of-gans-4c9ecca35900
 
@@ -58,6 +64,7 @@
 * https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035
 
 ### Object Detection
+* https://towardsdatascience.com/retinanet-how-focal-loss-fixes-single-shot-detection-cb320e3bb0de
 * Overview https://towardsdatascience.com/5-significant-object-detection-challenges-and-solutions-924cb09de9dd
 * Focal Loss for Dense Object Detection https://arxiv.org/pdf/1708.02002.pdf
 #### R-CNN family
@@ -146,6 +153,7 @@
 * https://blog.acolyer.org/2019/10/11/learning-a-unified-embedding-for-visual-search-at-pinterest/
 
 ### Image Captioning
+* https://www.ibm.com/blogs/research/2019/06/image-captioning/ GAN based https://arxiv.org/pdf/1805.00063.pdf
 * Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge https://arxiv.org/abs/1609.06647
 * A Survey on Automatic Image Caption Generation https://www.researchgate.net/publication/325384133_A_Survey_on_Automatic_Image_Caption_Generation
 * Image Captioning with Object Detection and Localization https://arxiv.org/abs/1706.02430
