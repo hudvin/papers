@@ -22,6 +22,9 @@
 
        center loss, can be used for face recog
 
+### GAN
+* https://medium.com/@jonathan_hui/gan-some-cool-applications-of-gans-4c9ecca35900
+
 ### Autoencoders
 * https://www.jeremyjordan.me/autoencoders/
 * https://www.jeremyjordan.me/variational-autoencoders/
