@@ -18,11 +18,18 @@
 * https://habr.com/ru/post/477192/
 
 
+
+
 ### Other
+* https://towardsdatascience.com/understanding-binary-cross-entropy-log-loss-a-visual-explanation-a3ac6025181a
 * CONTRASTIVE-CENTER LOSS FOR DEEP NEURAL NETWORKS https://arxiv.org/pdf/1707.07391.pdf
 * A Discriminative Feature Learning Approach for Deep Face Recognition (2016) https://ydwen.github.io/papers/WenECCV16.pdf 
 
        center loss, can be used for face recog
+
+
+### Segmentation
+* https://sthalles.github.io/deep_segmentation_network/
 
 ### Other architectures
 * https://habr.com/ru/post/347564/
@@ -40,6 +47,7 @@
 * https://medium.com/apache-mxnet/multi-channel-convolutions-explained-with-ms-excel-9bbf8eb77108
 * https://datascience.stackexchange.com/questions/6107/what-are-deconvolutional-layers
 * https://towardsdatascience.com/a-comprehensive-introduction-to-different-types-of-convolutions-in-deep-learning-669281e58215
+* https://stats.stackexchange.com/questions/194142/what-does-1x1-convolution-mean-in-a-neural-network
 
 
 ### GAN
