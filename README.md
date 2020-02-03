@@ -35,6 +35,11 @@
 * https://www.machinecurve.com/index.php/2019/09/29/understanding-transposed-convolutions/
 * http://deeplearning.net/software/theano/tutorial/conv_arithmetic.html
 * https://d2l.ai/chapter_computer-vision/tranposed-conv.html
+* https://medium.com/apache-mxnet/1d-3d-convolutions-explained-with-ms-excel-5f88c0f35941
+* https://medium.com/apache-mxnet/convolutions-explained-with-ms-excel-465d6649831c
+* https://medium.com/apache-mxnet/multi-channel-convolutions-explained-with-ms-excel-9bbf8eb77108
+* https://datascience.stackexchange.com/questions/6107/what-are-deconvolutional-layers
+* https://towardsdatascience.com/a-comprehensive-introduction-to-different-types-of-convolutions-in-deep-learning-669281e58215
 
 
 ### GAN
