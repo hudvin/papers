@@ -5,6 +5,8 @@
 * https://developers.google.com/machine-learning/crash-course/classification/precision-and-recall
 * https://towardsdatascience.com/breaking-down-mean-average-precision-map-ae462f623a52
 
+
+
 ### Dev Notes
 * https://stackoverflow.com/questions/46291253/what-is-the-difference-between-a-sigmoid-followed-by-the-cross-entropy-and-sigmo
 * https://stats.stackexchange.com/questions/207794/what-loss-function-for-multi-class-multi-label-classification-tasks-in-neural-n
@@ -27,6 +29,13 @@
 * https://medium.com/@fransiska26/the-differences-between-inception-resnet-and-mobilenet-e97736a709b0
 * https://habr.com/ru/post/352804/
 * https://medium.com/@yu4u/why-mobilenet-and-its-variants-e-g-shufflenet-are-fast-1c7048b9618d
+
+### Convolutions
+* https://towardsdatascience.com/types-of-convolutions-in-deep-learning-717013397f4d
+* https://www.machinecurve.com/index.php/2019/09/29/understanding-transposed-convolutions/
+* http://deeplearning.net/software/theano/tutorial/conv_arithmetic.html
+* https://d2l.ai/chapter_computer-vision/tranposed-conv.html
+
 
 ### GAN
 * https://medium.com/@jonathan_hui/gan-some-cool-applications-of-gans-4c9ecca35900
