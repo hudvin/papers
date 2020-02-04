@@ -30,6 +30,10 @@
 
 ### Segmentation
 * https://sthalles.github.io/deep_segmentation_network/
+* https://medium.com/@sh.tsang/review-deeplabv3-atrous-separable-convolution-semantic-segmentation-a625f6e83b90
+* https://sthalles.github.io/deep_segmentation_network/
+* https://heartbeat.fritz.ai/a-2019-guide-to-semantic-segmentation-ca8242f5a7fc
+* https://arxiv.org/pdf/1602.06541.pdf
 
 ### Other architectures
 * https://habr.com/ru/post/347564/
@@ -86,6 +90,7 @@
 * https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035
 
 ### Object Detection
+* https://towardsdatascience.com/efficientdet-scalable-and-efficient-object-detection-review-4472ffc34fd9
 * https://towardsdatascience.com/retinanet-how-focal-loss-fixes-single-shot-detection-cb320e3bb0de
 * Overview https://towardsdatascience.com/5-significant-object-detection-challenges-and-solutions-924cb09de9dd
 * Focal Loss for Dense Object Detection https://arxiv.org/pdf/1708.02002.pdf
