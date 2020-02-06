@@ -28,6 +28,9 @@
        center loss, can be used for face recog
 
 
+### Zero shot learning
+* https://medium.com/@cetinsamet/zero-shot-learning-53080995d45f
+
 ### Segmentation
 * https://sthalles.github.io/deep_segmentation_network/
 * https://medium.com/@sh.tsang/review-deeplabv3-atrous-separable-convolution-semantic-segmentation-a625f6e83b90
