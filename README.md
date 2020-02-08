@@ -1,6 +1,7 @@
 ## My list of interesting papers
 
 ### Metrics
+* https://github.com/KevinMusgrave/pytorch-metric-learning?fbclid=IwAR3TYazihR4_qxwoo3uOsb-gdhRk_ASgMyuL6CWV4KvZTuGA7G7XCfQtaHw
 * https://stackoverflow.com/questions/48461855/understanding-and-tracking-of-metrics-in-object-detection
 * https://developers.google.com/machine-learning/crash-course/classification/precision-and-recall
 * https://towardsdatascience.com/breaking-down-mean-average-precision-map-ae462f623a52
@@ -31,7 +32,21 @@
 ### Zero shot learning
 * https://medium.com/@cetinsamet/zero-shot-learning-53080995d45f
 
+### Heatmaps
+* https://github.com/albermax/innvestigate
+* https://heartbeat.fritz.ai/heatmaps-and-convolutional-neural-networks-using-fast-ai-16d5b7d02a86
+* https://jacobgil.github.io/deeplearning/class-activation-maps
+
+
+### Transformation
+* https://medium.com/uruvideo/dataset-augmentation-with-random-homographies-a8f4b44830d4
+* Homography augmentation https://www.kindoblue.nl/neural-network/tensorflow-homography
+* https://docs.opencv.org/master/d9/dab/tutorial_homography.html
+
 ### Segmentation
+* https://github.com/trungtpham/SceneCut
+* https://github.com/kanezaki/pytorch-unsupervised-segmentation
+* https://github.com/Yonv1943/Unsupervised-Segmentation
 * https://sthalles.github.io/deep_segmentation_network/
 * https://medium.com/@sh.tsang/review-deeplabv3-atrous-separable-convolution-semantic-segmentation-a625f6e83b90
 * https://sthalles.github.io/deep_segmentation_network/
