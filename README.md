@@ -17,6 +17,7 @@
 * https://www.freecodecamp.org/news/machine-learning-mean-squared-error-regression-line-c7dde9a26b93/
 * https://habr.com/ru/post/277275/
 * https://habr.com/ru/post/477192/
+* Сверточный слой: быстрая свертка по методу Шмуэля Винограда  https://habr.com/ru/post/477718/
 
 
 
