@@ -9,6 +9,9 @@
 
 
 ### Dev Notes
+* https://devblogs.nvidia.com/programming-tensor-cores-cuda-9/
+* https://stackoverflow.com/questions/47335027/what-is-the-difference-between-cuda-vs-tensor-cores
+* https://blog.tensorflow.org/2019/06/high-performance-inference-with-TensorRT.html
 * https://stackoverflow.com/questions/46291253/what-is-the-difference-between-a-sigmoid-followed-by-the-cross-entropy-and-sigmo
 * https://stats.stackexchange.com/questions/207794/what-loss-function-for-multi-class-multi-label-classification-tasks-in-neural-n
 * https://stackoverflow.com/questions/17187507/why-use-softmax-as-opposed-to-standard-normalization
