@@ -9,6 +9,8 @@
 
 
 ### Dev Notes
+* https://medium.com/ml-cheat-sheet/winning-at-loss-functions-2-important-loss-functions-in-computer-vision-b2b9d293e15a
+* https://towardsdatascience.com/weight-initialization-in-neural-networks-a-journey-from-the-basics-to-kaiming-954fb9b47c79
 * https://devblogs.nvidia.com/programming-tensor-cores-cuda-9/
 * https://stackoverflow.com/questions/47335027/what-is-the-difference-between-cuda-vs-tensor-cores
 * https://blog.tensorflow.org/2019/06/high-performance-inference-with-TensorRT.html
