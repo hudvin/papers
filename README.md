@@ -175,6 +175,7 @@
 * https://github.com/jantic/DeOldify
 
 ### Image Similarity
+* https://github.com/alexklibisz/elastik-nearest-neighbors/
 * https://mccormickml.com/2017/10/13/product-quantizer-tutorial-part-1/
 * Colour similarity search in images (в папке)
 * Image recognition and image similarity (в папке)
