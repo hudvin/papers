@@ -206,6 +206,7 @@
 * https://blog.acolyer.org/2019/10/11/learning-a-unified-embedding-for-visual-search-at-pinterest/
 
 ### Image Captioning
+* https://github.com/facebookresearch/pythia
 * https://www.ibm.com/blogs/research/2019/06/image-captioning/ GAN based https://arxiv.org/pdf/1805.00063.pdf
 * Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge https://arxiv.org/abs/1609.06647
 * A Survey on Automatic Image Caption Generation https://www.researchgate.net/publication/325384133_A_Survey_on_Automatic_Image_Caption_Generation
