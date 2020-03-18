@@ -50,6 +50,7 @@
 * https://docs.opencv.org/master/d9/dab/tutorial_homography.html
 
 ### Segmentation
+* https://github.com/rezazad68/fewshot-segmentation
 * https://github.com/trungtpham/SceneCut
 * https://github.com/kanezaki/pytorch-unsupervised-segmentation
 * https://github.com/Yonv1943/Unsupervised-Segmentation
