@@ -25,7 +25,8 @@
 * Сверточный слой: быстрая свертка по методу Шмуэля Винограда  https://habr.com/ru/post/477718/
 
 
-
+### Pose Estimation
+* https://nanonets.com/blog/human-pose-estimation-2d-guide/
 
 ### Other
 * https://towardsdatascience.com/understanding-binary-cross-entropy-log-loss-a-visual-explanation-a3ac6025181a
