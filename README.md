@@ -24,6 +24,9 @@
 * https://habr.com/ru/post/477192/
 * Сверточный слой: быстрая свертка по методу Шмуэля Винограда  https://habr.com/ru/post/477718/
 
+### Image Embeddings
+* ! https://amitness.com/2020/03/illustrated-pirl/ 
+* ! https://amitness.com/2020/03/illustrated-simclr/
 
 ### Pose Estimation
 * https://nanonets.com/blog/human-pose-estimation-2d-guide/
