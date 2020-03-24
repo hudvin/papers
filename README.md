@@ -1,6 +1,7 @@
 ## My list of interesting papers
 
 ### Metrics
+* https://machinelearningmastery.com/cross-entropy-for-machine-learning/
 * https://github.com/KevinMusgrave/pytorch-metric-learning?fbclid=IwAR3TYazihR4_qxwoo3uOsb-gdhRk_ASgMyuL6CWV4KvZTuGA7G7XCfQtaHw
 * https://stackoverflow.com/questions/48461855/understanding-and-tracking-of-metrics-in-object-detection
 * https://developers.google.com/machine-learning/crash-course/classification/precision-and-recall
