@@ -39,7 +39,11 @@
        center loss, can be used for face recog
 
 
-### Zero shot learning
+### Attention
+* https://towardsdatascience.com/learn-to-pay-attention-trainable-visual-attention-in-cnns-87e2869f89f1
+
+### Zero shot and few shot learning
+* https://towardsdatascience.com/few-shot-learning-in-cvpr19-6c6892fc8c5
 * https://medium.com/@cetinsamet/zero-shot-learning-53080995d45f
 
 ### Heatmaps
