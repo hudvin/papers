@@ -2,6 +2,12 @@
 
 ### Linear algebra
 * https://hadrienj.github.io/ nice tutorial!
+* https://hadrienj.github.io/posts/Deep-Learning-Book-Series-2.9-The-Moore-Penrose-Pseudoinverse/
+* https://hadrienj.github.io/posts/Deep-Learning-Book-Series-2.4-Linear-Dependence-and-Span/
+* https://hadrienj.github.io/posts/Deep-Learning-Book-Series-2.11-The-determinant/
+* https://math.stackexchange.com/questions/668/whats-an-intuitive-way-to-think-about-the-determinant
+* https://www.reddit.com/r/explainlikeimfive/comments/btaddq/eli5_what_is_the_determinant_of_a_matrix/
+* https://www.reddit.com/r/math/comments/13gv9q/ok_seriously_what_is_a_determinant/
 
 ### Eigen
 * https://medium.com/fintechexplained/what-are-eigenvalues-and-eigenvectors-a-must-know-concept-for-machine-learning-80d0fd330e47
