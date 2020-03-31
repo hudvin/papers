@@ -1,5 +1,8 @@
 ## Math articles
 
+### Linear algebra
+* https://hadrienj.github.io/ nice tutorial!
+
 ### Eigen
 * https://medium.com/fintechexplained/what-are-eigenvalues-and-eigenvectors-a-must-know-concept-for-machine-learning-80d0fd330e47
 * https://www.visiondummy.com/2014/03/eigenvalues-eigenvectors/
