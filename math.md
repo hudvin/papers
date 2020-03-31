@@ -1,10 +1,18 @@
 ## Math articles
 
+### Corellation and covariance
+* https://towardsdatascience.com/covariance-and-correlation-321fdacab168
+* https://sebastianraschka.com/faq/docs/covariance-vs-correlation.html
+* https://towardsdatascience.com/let-us-understand-the-correlation-matrix-and-covariance-matrix-d42e6b643c22
+* https://datascienceplus.com/understanding-the-covariance-matrix/
+
+
 ### Linear algebra
 * https://hadrienj.github.io/ nice tutorial!
 * https://hadrienj.github.io/posts/Deep-Learning-Book-Series-2.9-The-Moore-Penrose-Pseudoinverse/
 * https://hadrienj.github.io/posts/Deep-Learning-Book-Series-2.4-Linear-Dependence-and-Span/
 * https://hadrienj.github.io/posts/Deep-Learning-Book-Series-2.11-The-determinant/
+* https://hadrienj.github.io/posts/Deep-Learning-Book-Series-2.7-Eigendecomposition/
 * https://math.stackexchange.com/questions/668/whats-an-intuitive-way-to-think-about-the-determinant
 * https://www.reddit.com/r/explainlikeimfive/comments/btaddq/eli5_what_is_the_determinant_of_a_matrix/
 * https://www.reddit.com/r/math/comments/13gv9q/ok_seriously_what_is_a_determinant/
