@@ -72,6 +72,7 @@
 * https://sthalles.github.io/deep_segmentation_network/
 * https://heartbeat.fritz.ai/a-2019-guide-to-semantic-segmentation-ca8242f5a7fc
 * https://arxiv.org/pdf/1602.06541.pdf
+* Efficien Graph-based segmentation https://habr.com/ru/post/81279/
 
 ### Other architectures
 * https://habr.com/ru/post/347564/
