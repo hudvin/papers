@@ -50,6 +50,9 @@
 ### Zero shot and few shot learning
 * https://towardsdatascience.com/few-shot-learning-in-cvpr19-6c6892fc8c5
 * https://medium.com/@cetinsamet/zero-shot-learning-53080995d45f
+* https://github.com/facebookresearch/low-shot-shrink-hallucinate
+* https://github.com/facebookresearch/low-shot-with-diffusion
+* https://github.com/facebookresearch/WSL-Images
 
 ### Heatmaps
 * https://github.com/albermax/innvestigate
