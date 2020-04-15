@@ -11,7 +11,8 @@
 * https://developers.google.com/machine-learning/crash-course/classification/precision-and-recall
 * https://towardsdatascience.com/breaking-down-mean-average-precision-map-ae462f623a52
 
-
+### Descriptors and 3D reconstruction
+* https://ai.googleblog.com/2020/04/announcing-2020-image-matching.html
 
 ### Dev Notes
 * https://medium.com/ml-cheat-sheet/winning-at-loss-functions-2-important-loss-functions-in-computer-vision-b2b9d293e15a
