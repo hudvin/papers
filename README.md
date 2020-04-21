@@ -1,10 +1,14 @@
 ## My list of interesting papers
 
+### Edge Detection
+* https://towardsdatascience.com/canny-edge-detection-step-by-step-in-python-computer-vision-b49c3a2d8123
+
 ### Display Calibration
 * https://photo.stackexchange.com/questions/10757/why-not-use-a-camera-as-a-colorimeter
 * http://tomyeah.com/monitor-color-calibration-for-free-using-your-dslr/
 
 ### Metrics
+* https://medium.com/@maksym.bekuzarov/losses-explained-contrastive-loss-f8f57fe32246
 * https://machinelearningmastery.com/cross-entropy-for-machine-learning/
 * https://github.com/KevinMusgrave/pytorch-metric-learning?fbclid=IwAR3TYazihR4_qxwoo3uOsb-gdhRk_ASgMyuL6CWV4KvZTuGA7G7XCfQtaHw
 * https://stackoverflow.com/questions/48461855/understanding-and-tracking-of-metrics-in-object-detection
@@ -67,6 +71,7 @@
 * https://docs.opencv.org/master/d9/dab/tutorial_homography.html
 
 ### Segmentation
+* https://divamgupta.com/image-segmentation/2019/06/06/deep-learning-semantic-segmentation-keras.html
 * https://github.com/rezazad68/fewshot-segmentation
 * https://github.com/trungtpham/SceneCut
 * https://github.com/kanezaki/pytorch-unsupervised-segmentation
