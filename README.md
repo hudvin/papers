@@ -139,6 +139,16 @@
 * https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035
 
 ### Object Detection
+
+#### Other
+* Bridging the Gap Between Anchor-based and Anchor-free Detection via Adaptive Training Sample Selection https://arxiv.org/abs/1912.02424
+
+#### Pretrained Models
+* EfficientDet / MSCOCO https://github.com/google/automl/blob/master/efficientdet/tutorial.ipynb 
+* TF Hub
+* YOLO4 https://github.com/Ma-Dan/keras-yolo4
+* https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md
+
 * https://towardsdatascience.com/efficientdet-scalable-and-efficient-object-detection-review-4472ffc34fd9
 * https://towardsdatascience.com/retinanet-how-focal-loss-fixes-single-shot-detection-cb320e3bb0de
 * Overview https://towardsdatascience.com/5-significant-object-detection-challenges-and-solutions-924cb09de9dd
