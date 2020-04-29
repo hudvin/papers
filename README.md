@@ -143,8 +143,12 @@
 #### Other
 * Bridging the Gap Between Anchor-based and Anchor-free Detection via Adaptive Training Sample Selection https://arxiv.org/abs/1912.02424
 * Anchor-free models https://github.com/tensorflow/hub/issues/424
+* Nice analysis of SSD https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Object-Detection
+* https://medium.com/object-detection-using-tensorflow-and-coco-pre/object-detection-using-tensorflow-and-coco-pre-trained-models-5d8386019a8
+* https://lilianweng.github.io/lil-log/2018/12/27/object-detection-part-4.html
 
 #### Pretrained Models
+* https://github.com/ZFTurbo/Keras-RetinaNet-for-Open-Images-Challenge-2018
 * https://github.com/fizyr/keras-retinanet/blob/master/README.md#testing
 * EfficientDet / MSCOCO https://github.com/google/automl/blob/master/efficientdet/tutorial.ipynb 
 * TF Hub
