@@ -2,3 +2,4 @@
 * https://mux.com/blog/tuning-performance-of-tensorflow-serving-pipeline/
 * https://sudonull.com/post/30758
 * ONNX
+* https://github.com/tensorflow/models/issues/7818
