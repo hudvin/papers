@@ -142,6 +142,7 @@
 
 #### Other
 * Bridging the Gap Between Anchor-based and Anchor-free Detection via Adaptive Training Sample Selection https://arxiv.org/abs/1912.02424
+* Anchor-free models https://github.com/tensorflow/hub/issues/424
 
 #### Pretrained Models
 * https://github.com/fizyr/keras-retinanet/blob/master/README.md#testing
