@@ -144,6 +144,7 @@
 * Bridging the Gap Between Anchor-based and Anchor-free Detection via Adaptive Training Sample Selection https://arxiv.org/abs/1912.02424
 
 #### Pretrained Models
+* https://github.com/fizyr/keras-retinanet/blob/master/README.md#testing
 * EfficientDet / MSCOCO https://github.com/google/automl/blob/master/efficientdet/tutorial.ipynb 
 * TF Hub
 * YOLO4 https://github.com/Ma-Dan/keras-yolo4
