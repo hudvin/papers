@@ -71,6 +71,7 @@
 * https://docs.opencv.org/master/d9/dab/tutorial_homography.html
 
 ### Segmentation
+* https://en.wikipedia.org/wiki/Image_segmentation
 * https://divamgupta.com/image-segmentation/2019/06/06/deep-learning-semantic-segmentation-keras.html
 * https://github.com/rezazad68/fewshot-segmentation
 * https://github.com/trungtpham/SceneCut
