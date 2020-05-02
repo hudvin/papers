@@ -216,6 +216,9 @@
 * https://github.com/jantic/DeOldify
 
 ### Image Similarity
+* https://blog.insightdatascience.com/the-unreasonable-effectiveness-of-deep-learning-representations-4ce83fc663cf (!)
+* https://medium.com/@akarshzingade/image-similarity-using-deep-ranking-c1bd83855978
+* https://towardsdatascience.com/finding-similar-images-using-deep-learning-and-locality-sensitive-hashing-9528afee02f5
 * https://github.com/alexklibisz/elastik-nearest-neighbors/
 * https://mccormickml.com/2017/10/13/product-quantizer-tutorial-part-1/
 * Colour similarity search in images (в папке)
