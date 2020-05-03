@@ -19,6 +19,7 @@
 * https://ai.googleblog.com/2020/04/announcing-2020-image-matching.html
 
 ### Dev Notes
+* Backprop step-by-step https://cs231n.github.io/optimization-2/
 * https://medium.com/ml-cheat-sheet/winning-at-loss-functions-2-important-loss-functions-in-computer-vision-b2b9d293e15a
 * https://towardsdatascience.com/weight-initialization-in-neural-networks-a-journey-from-the-basics-to-kaiming-954fb9b47c79
 * https://devblogs.nvidia.com/programming-tensor-cores-cuda-9/
