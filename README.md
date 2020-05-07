@@ -1,5 +1,9 @@
 ## My list of interesting papers
 
+### Projects
+* Open source deep learning based unsupervised image retrieval toolbox built on PyTorchfire
+ https://github.com/PyRetri/PyRetri
+
 ### Edge Detection
 * https://towardsdatascience.com/canny-edge-detection-step-by-step-in-python-computer-vision-b49c3a2d8123
 
