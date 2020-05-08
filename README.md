@@ -146,6 +146,7 @@
 * https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035
 
 ### Object Detection
+* https://github.com/tianzhi0549/FCOS
 
 #### Other
 * Bridging the Gap Between Anchor-based and Anchor-free Detection via Adaptive Training Sample Selection https://arxiv.org/abs/1912.02424
