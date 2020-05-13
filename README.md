@@ -1,5 +1,11 @@
 ## My list of interesting papers
 
+### Underwater photo correction
+* https://arxiv.org/pdf/1801.04011.pdf
+* http://openaccess.thecvf.com/content_CVPRW_2019/papers/AAMVEM/Jamadandi_Exemplar-based_Underwater_Image_Enhancement_Augmented_by_Wavelet_Corrected_Transforms_CVPRW_2019_paper.pdf
+* https://github.com/cameronfabbri/Underwater-Color-Correction
+
+
 ### Projects
 * Open source deep learning based unsupervised image retrieval toolbox built on PyTorchfire
  https://github.com/PyRetri/PyRetri
@@ -12,6 +18,7 @@
 * http://tomyeah.com/monitor-color-calibration-for-free-using-your-dslr/
 
 ### Metrics
+* https://www.linkedin.com/pulse/intuitive-explanation-precision-recall-accuracy-daniel-d-souza/
 * https://medium.com/@maksym.bekuzarov/losses-explained-contrastive-loss-f8f57fe32246
 * https://machinelearningmastery.com/cross-entropy-for-machine-learning/
 * https://github.com/KevinMusgrave/pytorch-metric-learning?fbclid=IwAR3TYazihR4_qxwoo3uOsb-gdhRk_ASgMyuL6CWV4KvZTuGA7G7XCfQtaHw
