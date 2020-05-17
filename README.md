@@ -1,5 +1,14 @@
 ## My list of interesting papers
 
+### Backprop and autodiff
+* https://people.cs.umass.edu/~domke/courses/sml2011/08autodiff_nnets.pdf
+* https://timvieira.github.io/blog/post/2017/08/18/backprop-is-not-just-the-chain-rule/
+* https://rpubs.com/giuliano_mega/381480
+* https://alexey.radul.name/ideas/2013/introduction-to-automatic-differentiation/
+* https://rufflewind.com/2016-12-30/reverse-mode-automatic-differentiation
+* https://dlsys.cs.washington.edu/pdf/lecture4.pdf
+* http://colah.github.io/posts/2015-08-Backprop/
+
 ### Underwater photo correction
 * https://arxiv.org/pdf/1801.04011.pdf
 * http://openaccess.thecvf.com/content_CVPRW_2019/papers/AAMVEM/Jamadandi_Exemplar-based_Underwater_Image_Enhancement_Augmented_by_Wavelet_Corrected_Transforms_CVPRW_2019_paper.pdf
