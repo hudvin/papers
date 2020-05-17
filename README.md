@@ -1,6 +1,7 @@
 ## My list of interesting papers
 
 ### Backprop and autodiff
+* Automatic differentiation in machine learning: a survey  https://arxiv.org/abs/1502.05767
 * https://people.cs.umass.edu/~domke/courses/sml2011/08autodiff_nnets.pdf
 * https://timvieira.github.io/blog/post/2017/08/18/backprop-is-not-just-the-chain-rule/
 * https://rpubs.com/giuliano_mega/381480
