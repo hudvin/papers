@@ -1,5 +1,11 @@
 ## My list of interesting papers
 
+### DELF
+* https://tfhub.dev/google/delf/1
+* https://aihub.cloud.google.com/p/products%2F185aa66b-c76d-41e0-a969-81f87b6d5518
+* https://www.dlology.com/blog/easy-landmark-image-recognition-with-tensorflow-hub-delf-module/
+* https://github.com/Tony607/Landmark-Retrival
+
 ### Backprop and autodiff
 * Automatic differentiation in machine learning: a survey  https://arxiv.org/abs/1502.05767
 * https://people.cs.umass.edu/~domke/courses/sml2011/08autodiff_nnets.pdf
