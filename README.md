@@ -25,6 +25,8 @@
 ### Projects
 * Open source deep learning based unsupervised image retrieval toolbox built on PyTorchfire
  https://github.com/PyRetri/PyRetri
+* https://alicevision.org/#meshroom
+* Wrapper for DL image analysis https://github.com/OlafenwaMoses/ImageAI
 
 ### Edge Detection
 * https://towardsdatascience.com/canny-edge-detection-step-by-step-in-python-computer-vision-b49c3a2d8123
@@ -99,6 +101,7 @@
 * https://docs.opencv.org/master/d9/dab/tutorial_homography.html
 
 ### Segmentation
+* Pretrained models https://github.com/qubvel/segmentation_models
 * https://github.com/sirius-mhlee/graph-based-image-segmentation !
 * https://en.wikipedia.org/wiki/Image_segmentation
 * https://divamgupta.com/image-segmentation/2019/06/06/deep-learning-semantic-segmentation-keras.html
@@ -190,6 +193,7 @@
 * https://towardsdatascience.com/retinanet-how-focal-loss-fixes-single-shot-detection-cb320e3bb0de
 * Overview https://towardsdatascience.com/5-significant-object-detection-challenges-and-solutions-924cb09de9dd
 * Focal Loss for Dense Object Detection https://arxiv.org/pdf/1708.02002.pdf
+
 #### R-CNN family
 * https://towardsdatascience.com/r-cnn-3a9beddfd55a
 * https://ru.coursera.org/lecture/deep-learning-in-computer-vision/faster-r-cnn-DM0hz
@@ -216,6 +220,7 @@
 
 
 ### Face Recognition
+* https://github.com/onnx/models/tree/master/vision/body_analysis/arcface 
 * RetinaFace face detector https://github.com/deepinsight/insightface/tree/master/RetinaFace
 * InsightFace: 2D and 3D Face Analysis Project https://github.com/deepinsight/insightface
 * CenterLoss for face recognition https://www.slideshare.net/JisungDavidKim/center-loss-for-face-recognition
