@@ -1,5 +1,14 @@
 ## My list of interesting papers
 
+### PCA-Corellation-SVD
+* https://stats.stackexchange.com/questions/147880/is-pca-still-done-via-the-eigendecomposition-of-the-covariance-matrix-when-dimen
+* https://stackoverflow.com/questions/30802444/how-to-get-the-number-of-components-needed-in-pca-with-all-extreme-variance
+* https://www.mikulskibartosz.name/pca-how-to-choose-the-number-of-components/
+* https://towardsdatascience.com/pca-using-python-scikit-learn-e653f8989e60
+* https://jakevdp.github.io/PythonDataScienceHandbook/05.09-principal-component-analysis.html
+* https://stats.stackexchange.com/questions/70899/what-correlation-makes-a-matrix-singular-and-what-are-implications-of-singularit
+
+
 ### DELF
 * https://tfhub.dev/google/delf/1
 * https://aihub.cloud.google.com/p/products%2F185aa66b-c76d-41e0-a969-81f87b6d5518
