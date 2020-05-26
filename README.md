@@ -2,6 +2,9 @@
 
 ### PCA-Corellation-SVD
 * PCA https://www.youtube.com/watch?v=fKivxsVlycs
+* PCA https://www.youtube.com/watch?v=g-Hb26agBFg
+* https://datascienceplus.com/understanding-the-covariance-matrix/
+* http://www.octoberraindrops.com/publications/Phan_2016_IntroductionToPCA.pdf
 * https://plotly.com/python/v3/ipython-notebooks/principal-component-analysis/
 * cool explanation by Andrew Ng https://www.youtube.com/watch?v=rng04VJxUt4
 * https://stats.stackexchange.com/questions/147880/is-pca-still-done-via-the-eigendecomposition-of-the-covariance-matrix-when-dimen
