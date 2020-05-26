@@ -1,6 +1,7 @@
 ## My list of interesting papers
 
 ### PCA-Corellation-SVD
+* cool explanation by Andrew Ng https://www.youtube.com/watch?v=rng04VJxUt4
 * https://stats.stackexchange.com/questions/147880/is-pca-still-done-via-the-eigendecomposition-of-the-covariance-matrix-when-dimen
 * https://stackoverflow.com/questions/30802444/how-to-get-the-number-of-components-needed-in-pca-with-all-extreme-variance
 * https://www.mikulskibartosz.name/pca-how-to-choose-the-number-of-components/
