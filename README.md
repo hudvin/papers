@@ -1,6 +1,10 @@
 ## My list of interesting papers
 
 ### PCA-Corellation-SVD
+* SVD https://www.youtube.com/watch?v=JEYLfIVvR9I
+* https://datascienceplus.com/understanding-the-covariance-matrix/
+* https://blog.statsbot.co/singular-value-decomposition-tutorial-52c695315254
+* https://www.reddit.com/r/MachineLearning/comments/2b4nxd/eli5_singular_value_decomposition/
 * PCA https://www.youtube.com/watch?v=fKivxsVlycs
 * PCA https://www.youtube.com/watch?v=g-Hb26agBFg
 * https://datascienceplus.com/understanding-the-covariance-matrix/
