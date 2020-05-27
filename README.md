@@ -1,6 +1,9 @@
 ## My list of interesting papers
 
 ### PCA-Corellation-SVD
+* https://medium.com/@jonathan_hui/machine-learning-singular-value-decomposition-svd-principal-component-analysis-pca-1d45e885e491
+* https://math.stackexchange.com/questions/127500/what-is-the-difference-between-singular-value-and-eigenvalue
+* https://stats.stackexchange.com/questions/134282/relationship-between-svd-and-pca-how-to-use-svd-to-perform-pca?noredirect=1&lq=1
 * SVD https://www.youtube.com/watch?v=JEYLfIVvR9I
 * https://datascienceplus.com/understanding-the-covariance-matrix/
 * https://blog.statsbot.co/singular-value-decomposition-tutorial-52c695315254
