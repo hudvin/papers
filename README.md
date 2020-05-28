@@ -1,5 +1,9 @@
 ## My list of interesting papers
 
+### Other
+* Why does deep and cheap learning work so well?  https://arxiv.org/abs/1608.08225
+* Deep Learning: A Critical Appraisal https://arxiv.org/abs/1801.00631
+
 ### PCA-Corellation-SVD
 * https://web.mit.edu/be.400/www/SVD/Singular_Value_Decomposition.htm
 * https://towardsdatascience.com/understanding-singular-value-decomposition-and-its-application-in-data-science-388a54be95d
