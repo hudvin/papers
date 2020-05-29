@@ -201,6 +201,7 @@
 
 ### Object Detection
 * https://github.com/tianzhi0549/FCOS
+* https://lilianweng.github.io/lil-log/2018/12/27/object-detection-part-4.html
 
 #### Other
 * Bridging the Gap Between Anchor-based and Anchor-free Detection via Adaptive Training Sample Selection https://arxiv.org/abs/1912.02424
