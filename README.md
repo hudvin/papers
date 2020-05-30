@@ -1,5 +1,11 @@
 ## My list of interesting papers
 
+### Hessian Matrix
+* https://suzyahyah.github.io/calculus/2018/04/05/Hessian-Second-Derivatives.html
+* https://www.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/quadratic-approximations/a/the-hessian
+* https://www.quora.com/What-is-the-Hessian-matrix-What-is-it-used-for-and-for-what-reason
+* http://faculty.bard.edu/~belk/math241/SecondDerivatives.pdf
+
 ### Other
 * Why does deep and cheap learning work so well?  https://arxiv.org/abs/1608.08225
 * Deep Learning: A Critical Appraisal https://arxiv.org/abs/1801.00631
