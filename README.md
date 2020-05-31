@@ -1,6 +1,10 @@
 ## My list of interesting papers
 
 ### Hessian Matrix
+* https://milania.de/blog/Introduction_to_the_Hessian_feature_detector_for_finding_blobs_in_an_image
+* https://www.quora.com/What-is-the-Hessian-matrix-What-is-it-used-for-and-for-what-reason
+* https://mlexplained.com/2018/02/02/an-introduction-to-second-order-optimization-for-deep-learning-practitioners-basic-math-for-deep-learning-part-1/
+* https://stackoverflow.com/questions/18744051/opencv-surf-hessian-minimum-threshold
 * https://suzyahyah.github.io/calculus/2018/04/05/Hessian-Second-Derivatives.html
 * https://www.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/quadratic-approximations/a/the-hessian
 * https://www.quora.com/What-is-the-Hessian-matrix-What-is-it-used-for-and-for-what-reason
