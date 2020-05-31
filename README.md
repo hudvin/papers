@@ -1,5 +1,13 @@
 ## My list of interesting papers
 
+### Jacobian
+* https://medium.com/unit8-machine-learning-publication/computing-the-jacobian-matrix-of-a-neural-network-in-python-4f162e5db180
+* https://jamesmccaffrey.wordpress.com/2017/08/22/the-jacobian-and-machine-learning/
+* https://math.stackexchange.com/questions/2053229/the-connection-between-the-jacobian-hessian-and-the-gradient
+* https://najeebkhan.github.io/blog/VecCal.html
+
+
+
 ### Hessian Matrix
 * https://milania.de/blog/Introduction_to_the_Hessian_feature_detector_for_finding_blobs_in_an_image
 * https://www.quora.com/What-is-the-Hessian-matrix-What-is-it-used-for-and-for-what-reason
