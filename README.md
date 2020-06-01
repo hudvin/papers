@@ -6,7 +6,11 @@
 * https://math.stackexchange.com/questions/2053229/the-connection-between-the-jacobian-hessian-and-the-gradient
 * https://najeebkhan.github.io/blog/VecCal.html
 * https://siegel.work/blog/TheJacobian/
-
+* nice explanation http://mathmod.bmstu.ru/Docs/Eduwork/la_fnp/FNP-13.pdf 
+* https://wiki2.info/Якобиан
+* http://pmpu.ru/vf4/algebra2/dets/jacobian
+* https://courses.lumenlearning.com/boundless-calculus/chapter/vector-functions/
+* https://www.value-at-risk.net/functions/
 
 
 ### Hessian Matrix
