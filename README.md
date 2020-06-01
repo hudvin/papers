@@ -73,6 +73,7 @@
  https://github.com/PyRetri/PyRetri
 * https://alicevision.org/#meshroom
 * Wrapper for DL image analysis https://github.com/OlafenwaMoses/ImageAI
+* Can be used for facerecog https://github.com/nmslib/nmslib
 
 ### Edge Detection
 * https://towardsdatascience.com/canny-edge-detection-step-by-step-in-python-computer-vision-b49c3a2d8123
@@ -284,6 +285,7 @@
 * Age and gender estimation https://github.com/yu4u/age-gender-estimation
 
 ### Face Search
+* https://habr.com/ru/post/503402/#comments
 * Face Search at Scale: 80 Million Gallery https://arxiv.org/abs/1507.07242
 * Level Playing Field for Million Scale Face Recognition https://arxiv.org/abs/1705.00393
 
