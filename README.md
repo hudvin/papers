@@ -5,6 +5,7 @@
 * https://jamesmccaffrey.wordpress.com/2017/08/22/the-jacobian-and-machine-learning/
 * https://math.stackexchange.com/questions/2053229/the-connection-between-the-jacobian-hessian-and-the-gradient
 * https://najeebkhan.github.io/blog/VecCal.html
+* https://siegel.work/blog/TheJacobian/
 
 
 
