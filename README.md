@@ -1,5 +1,12 @@
 ## My list of interesting papers
 
+### Laplacian 
+#### Laplacian Filter
+* https://homepages.inf.ed.ac.uk/rbf/HIPR2/log.htm
+* https://academic.mu.edu/phys/matthysd/web226/Lab02.htm
+* https://stackoverflow.com/questions/53544983/how-is-laplacian-filter-calculated
+* https://stackoverflow.com/questions/53544983/how-is-laplacian-filter-calculated
+
 ### Jacobian
 * https://medium.com/unit8-machine-learning-publication/computing-the-jacobian-matrix-of-a-neural-network-in-python-4f162e5db180
 * https://jamesmccaffrey.wordpress.com/2017/08/22/the-jacobian-and-machine-learning/
