@@ -38,6 +38,10 @@
 ### Action recognition
 * http://blog.qure.ai/notes/deep-learning-for-videos-action-recognition-review
 
+
+### Object tracking
+* Очень крутой и детальный обзор подходов к object tracking https://habr.com/ru/company/recognitor/blog/505694/
+
 ### PCA-Corellation-SVD
 * https://web.mit.edu/be.400/www/SVD/Singular_Value_Decomposition.htm
 * https://towardsdatascience.com/understanding-singular-value-decomposition-and-its-application-in-data-science-388a54be95d
