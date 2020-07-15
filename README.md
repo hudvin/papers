@@ -1,5 +1,14 @@
 ## My list of interesting papers
 
+
+### Entropy, cross-entropy, KL divergence
+* https://adventuresinmachinelearning.com/cross-entropy-kl-divergence/
+* https://stats.stackexchange.com/questions/411105/why-is-kullback-leilbler-divergence-a-better-metric-for-measuring-distance-betwe
+* https://stats.stackexchange.com/questions/357963/what-is-the-difference-cross-entropy-and-kl-divergence
+* https://stats.stackexchange.com/questions/265966/why-do-we-use-kullback-leibler-divergence-rather-than-cross-entropy-in-the-t-sne
+* https://towardsdatascience.com/entropy-cross-entropy-kl-divergence-binary-cross-entropy-cb8f72e72e65
+* https://towardsdatascience.com/entropy-cross-entropy-and-kl-divergence-explained-b09cdae917a
+
 ### Laplacian 
 #### Laplacian Filter
 * https://homepages.inf.ed.ac.uk/rbf/HIPR2/log.htm
