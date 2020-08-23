@@ -52,6 +52,7 @@
 * Очень крутой и детальный обзор подходов к object tracking https://habr.com/ru/company/recognitor/blog/505694/
 
 ### PCA-Corellation-SVD
+* https://hadrienj.github.io/posts/Deep-Learning-Book-Series-2.8-Singular-Value-Decomposition/
 * https://web.mit.edu/be.400/www/SVD/Singular_Value_Decomposition.htm
 * https://towardsdatascience.com/understanding-singular-value-decomposition-and-its-application-in-data-science-388a54be95d
 * https://medium.com/@jonathan_hui/machine-learning-singular-value-decomposition-svd-principal-component-analysis-pca-1d45e885e491
